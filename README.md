@@ -125,7 +125,7 @@ ansible-playbook -i inventory.ini playbook.yml
 Open your web browser and navigate to:
 
 Plaintext
-http://<YOUR_EC2_PUBLIC_IP>
+http://44.192.9.255
 You will see the automated response confirming that infrastructure was provisioned via Terraform and configured via Ansible.
 
 🧹 Teardown (Clean Up)
