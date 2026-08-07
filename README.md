@@ -134,3 +134,4 @@ To destroy all cloud resources and avoid incurring unwanted charges:
 Bash
 cd terraform
 terraform destroy -auto-approve
+
